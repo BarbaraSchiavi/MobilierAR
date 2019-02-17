@@ -41,6 +41,11 @@ public class ARFeatheredPlaneMeshVisualizer : MonoBehaviour
         GenerateBoundaryUVs(planeMeshVisualizer.mesh);
     }
 
+    public void SetPlaneMaterial(Material m)
+    {
+        m_FeatheredPlaneMaterial = m;
+    }
+
     /// <summary>
     /// Generate UV2s to mark the boundary vertices and feathering UV coords.
     /// </summary>

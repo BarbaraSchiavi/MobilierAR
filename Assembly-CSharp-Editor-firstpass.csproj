@@ -55,55 +55,55 @@
   <ItemGroup>
      <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
  <Reference Include="Unity.XR.ARKit">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.core.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.core.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARCore">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.core.Runtime">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.core.Runtime.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARFoundation.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARFoundation">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.lightweight.Runtime">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Runtime.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.lightweight.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARCore.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARExtensions">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARExtensions.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARExtensions.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Runtime">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARExtensions.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARExtensions.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARExtensions.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.core.IncludePaths">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.core.IncludePaths.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/com.unity.render-pipelines.core.IncludePaths.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.ARKit.Editor">
- <HintPath>D:/ProjetValadoni/arfoundation-samples.git/trunk/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
+ <HintPath>D:/ProjetValadoni/MobilierAR.git/trunk/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity2018/2018.1.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
